@@ -62,10 +62,10 @@ disp("Variance = ");
 disp(variance_value);
 ```
 ---
-
+<img width="176" height="285" alt="{6AD0CE57-FDD1-4F3F-9CA2-2EA8164B7847}" src="https://github.com/user-attachments/assets/45a1a072-3537-4d1c-bd61-36e9bf8e404d" />
 
 OUTPUT GRAPH:
-<img width="176" height="285" alt="{6AD0CE57-FDD1-4F3F-9CA2-2EA8164B7847}" src="https://github.com/user-attachments/assets/45a1a072-3537-4d1c-bd61-36e9bf8e404d" />
+
 
 
 ---
