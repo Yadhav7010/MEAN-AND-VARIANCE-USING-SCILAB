@@ -64,6 +64,14 @@ disp(variance_value);
 <img width="176" height="285" src="https://github.com/user-attachments/assets/45a1a072-3537-4d1c-bd61-36e9bf8e404d" />
 
 ---
+## CALCULATION
+<img width="1080" height="1027" alt="image" src="https://github.com/user-attachments/assets/4ace3a7d-c9a4-470a-8323-2a7dc3914f8e" />
+
+<img width="1080" height="1174" alt="image" src="https://github.com/user-attachments/assets/83a4f9f6-c58d-428d-a5ef-00b5438f0da5" />
+
+---
 
 ## RESULT:
 Thus the mean and variance were computed using SCILAB and the results were verified successfully.
+<img width="1146" height="471" alt="image" src="https://github.com/user-attachments/assets/5345dab6-4e7f-4e8a-a465-138d9b9e55eb" />
+
